@@ -8,7 +8,7 @@ import pandas as pd
 
 
 # loading the saved model
-loaded_model = pickle.load(open('LinearRegressionModel.pkl','rb'))
+loaded_model = pickle.load(open('Model.pkl','rb'))
 
 
 # creating a function for Prediction
